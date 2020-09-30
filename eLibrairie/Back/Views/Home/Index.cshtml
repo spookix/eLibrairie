@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<eLibrairie.Core.Data.Models.Book>
+
+<h1 class="text-center">Informations</h1>
+
+<div class="row">
+    <div class="col-md-6 offset-md-3 jumbotron">
+        <p>Pour les images, c'est leur adresse qu'il faut récupérer</p>
+    </div>
+</div>
+@if (!User.Identity.IsAuthenticated)
+{    
+    <a href="/home/login" class="btn btn-primary">Se connecter</a>
+    <a href="/home/register" class="btn btn-info">Pas en encore de compte, j'en crée un</a>
+}
+else
+{
+<p>Bonjour <strong>@User.Identity.Name </strong> </p>
+<div class="m-2">
+    <a asp-controller="home" asp-action="dashboard"  class="btn btn-success">Dashboard</a>
+    <a asp-controller="AppUser" asp-action="profil" asp-route-username ="@User.Identity.Name" class="btn btn-warning">Mon profil</a>
+    <a asp-controller="home" asp-action="logout" class="btn btn-info">Déconnexion</a>
+</div>
+}

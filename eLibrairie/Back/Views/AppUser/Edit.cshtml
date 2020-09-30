@@ -1,0 +1,36 @@
+﻿<div class="row">
+    <div class="col-3"></div>
+    <div class="col-6">
+        <div class="card m-4">
+            <div class="text-center m-4">
+                <img src="~/images/update.png" width="128" height="128" class="img-fluid my-margin-top" alt="enregistrement">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title text-center">Edit</h5>
+                <form action="/AppUser/Edit" method="post">
+                    <label for="username">Username</label>
+                    <input type="text" name="username" id="username" class="form-control">
+
+                    <label for="firstname">Firstname</label>
+                    <input type="text" name="firstname" id="firstname" class="form-control">
+
+                    <label for="lastname">Lastname</label>
+                    <input type="text" name="lastname" id="lastname" class="form-control">
+
+                    <label for="password">Password</label>
+                    <input type="password" name="password" id="password" class="form-control">
+
+                    <div class="row">
+                        <div class="col text-center m-4">
+                            <button type="submit" class="btn btn-primary" disabled>Sauvegarder</button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <hr />
+        <a href="/home" class="btn btn-primary">Retour</a>
+    </div>
+</div>
+

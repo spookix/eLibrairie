@@ -1,0 +1,21 @@
+﻿<div class="list-group">
+    <a href="http://localhost:52225/home/dashboard" class="list-group-item list-group-item-action @(this.ViewBag.currentIndexSideBare=="dashboard" ? "active" : "")">
+        <i class="fas fa-fw fa-tachometer-alt"></i>
+        Dashboard
+    </a>
+
+    <a href="http://localhost:52225/categorie/index" class="list-group-item list-group-item-action @(this.ViewBag.currentIndexSideBare=="categorie" ? "active" : "")">
+        <i class="fas fa-globe"></i>
+        Gestion des catégories
+    </a>
+
+    <a href="http://localhost:52225/book/index" class="list-group-item list-group-item-action @(this.ViewBag.currentIndexSideBare=="book" ? "active" : "")">
+        <i class="fas fa-book"></i>
+        Gestion des livres
+    </a>
+
+    <a asp-controller="AppUser" asp-action="profil" asp-route-username ="@User.Identity.Name" class="list-group-item list-group-item-action @(this.ViewBag.currentIndexSideBare=="profil" ? "active" : "")">
+        <i class="fas fa-book"></i>
+       Mon profil
+    </a>
+</div>
