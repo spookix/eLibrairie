@@ -1,0 +1,1419 @@
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetDelete.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBookByName.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Compte.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Paiement.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Facture.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetDelete.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBookByName.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Compte.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Facture.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\GetCommande.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Paiement.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\temp\asp-net-projects\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetDelete.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBookByName.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Compte.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Facture.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\GetCommande.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Paiement.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\temp\asp-net-projects\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetDelete.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBookByName.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Compte.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Facture.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\GetCommande.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Paiement.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommandeDetailHistory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommandeHistory.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\AffichageCompte.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCompte.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModifMdp.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\MdpModifie.cshtml.g.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\SuppCompte.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.exe
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.deps.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.runtimeconfig.dev.json
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorAssemblyInfo.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.AssemblyInfo.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.input.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.TagHelpers.output.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorCoreGenerate.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetBasket.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Basket\GetDelete.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBookByName.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategory.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetCategoryId.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Compte.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Facture.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\GetCommande.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Commande\Paiement.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\AffichageCompte.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommandeDetailHistory.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\CommandeHistory.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCompte.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\MdpModifie.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\ModifMdp.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Home\SuppCompte.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.RazorTargetAssemblyInfo.cs
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.Views.pdb
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.csproj.CopyComplete
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.Manifest.cache
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\staticwebassets\Front.StaticWebAssets.xml
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.dll
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.pdb
+C:\temp\asp-net-projects\final\eLibrairie\Front\obj\Debug\netcoreapp3.1\Front.genruntimeconfig.cache
