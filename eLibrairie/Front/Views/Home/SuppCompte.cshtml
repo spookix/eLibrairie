@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "SuppCompte";
+}
+
+<div class="container">
+
+    <div class="text-center">
+        <h1>Attention vous allez supprimer définitivement votre compte</h1>
+        <h2>Voulez vous vraiment le supprimer?</h2>
+        
+        <div class="row mt-5">
+            <div class="col-6">
+                <a class="btn btn-block btn-primary"  asp-controller="Home" asp-action="Index">Arrêter les conneries</a>
+            </div>
+            <div class="col-6">
+                <a class="btn btn-block btn-primary" asp-controller="Home" asp-action="SuppCompte" asp-route-supp="true">Adios petit compte</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@model eLibrairie.Core.Data.Models.Compte
+@{
+    ViewData["Title"] = "AffichageCompte";
+}
+
+<div class="container">
+
+    <div class="text-center mb-4">
+        <h1>Informations du compte</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label for="username"><strong>Identifiant: </strong>@Model.Name</label>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label for="email"><strong>Mail: </strong>@Model.Mail</label>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label for="nbrCommande"><strong>Nombre de commande : </strong>@ViewBag.NbrCommande </label>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <a class="btn btn-block btn-light" asp-controller="Home" asp-action="Index">Retour à l'accueil</a>
+        </div>
+        <div class="col-md-3">
+            <a class="btn btn-block btn-light" asp-controller="Home" asp-action="EditCompte">Modifier le compte</a>
+        </div>
+        <div class="col-md-3">
+            <a class="btn btn-block btn-light" asp-controller="Home" asp-action="SuppCompte" asp-route-supp="false">Supprimer le compte</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "GetBookByName";
+}
+
+<div class="text-center">
+    <h1 class="display-2">eLibrairie</h1>
+
+</div>
+<div class="">
+    <div class="row">
+        @foreach (var r in ViewBag.bookList)
+        {
+            <div class="col-4 card text-center">
+                <a asp-controller="Book" asp-action="GetBook" asp-route-id="@r.Id" asp-route-panier="false">
+                    <img class="center" src="@r.Image" alt="@r.Name" style="display: block;margin-left: auto;margin-right: auto;width: 80%;margin-top: 10px; height:300px">
+                    <div class="card-body">
+                        <h5 class="card-title">@r.Name</h5>
+                        <p class="card-text">@r.Price €</p>
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>

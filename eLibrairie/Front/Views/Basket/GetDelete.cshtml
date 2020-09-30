@@ -1,0 +1,109 @@
+﻿@model IEnumerable<eLibrairie.Core.Data.Models.DetailCommande>
+@using Microsoft.AspNetCore.Http;
+@{ var listBook = Context.Session.Get<List<eLibrairie.Core.Data.Models.Book>>("_ListeBook");}
+@{ var listDetail = Context.Session.Get<List<eLibrairie.Core.Data.Models.DetailCommande>>("_ListeDetailCommande");}
+@{ var totalPrice = Context.Session.Get<decimal>("_PrixTotal");}
+@{
+    ViewData["Title"] = "GetDelete";
+}
+
+<h1>Panier</h1>
+
+<div class="container mb-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <form method="post" asp-controller="Basket" asp-action="GetBasket">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col"> </th>
+                                <th scope="col">Produit</th>
+                                <th scope="col">Description</th>
+                                <th scope="col" class="text-center">Quantité</th>
+                                <th scope="col" class="text-right">Prix</th>
+                                <th> </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var book in listBook)
+                            {
+                                <tr data-bookid="@book.Id">
+                                    <td><img src=@book.Image class="img-fluid img-thumbnail w-75 p-6" /> </td>
+                                    <td class="w-25 p-6"><Strong>@book.Name</Strong></td>
+                                    <td>@book.Description </td>
+                                    @for (int item = 0; item < Model.Count(); item++)
+                                    {
+                                        @if (book.Id == @Model.ToList()[item].BookId)
+                                        {
+                                            <td data-th="Quantity">
+                                                <input name="quantite[@item]" type="number" class="form-control text-center" value="@Model.ToList()[item].Quantity">
+                                            </td>
+                                            <td class="text-right">@book.Price€</td>
+                                            <td class="row align-items">
+                                                <button class="mr-1" type="submit" asp-controller="Basket" asp-action="GetBasket" asp-route-id="@book.Id" asp-route-panier="true">
+                                                    <i class="fa fa-redo"></i>
+                                                </button>
+                                                <a asp-controller="Basket" asp-action="GetDelete" asp-route-id="@book.Id">
+                                                    <i class="fas fa-trash-alt" style="font-size:1.5rem;margin-right: 1rem;"></i>
+                                                </a>
+                                                @*<a class="book" data-bookid="@book.Id" data-toggle="modal" data-target="#deleteModal">
+                                                        <i class="fas fa-trash-alt" style="font-size:1.5rem;margin-right: 1rem;"></i>
+                                                    </a>*@
+                                            </td>
+                                        }
+                                    }
+                                </tr>
+                            }
+
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td><strong>Total</strong></td>
+                                <td class="text-right"><strong>@totalPrice€</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </form>
+                <!--zone cachée-->
+                <input type="hidden" id="suppresse-bookId">
+            </div>
+        </div>
+        <div class="col mb-2">
+            <div class="row">
+                <div class="col-sm-12  col-md-6">
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-block btn-light">Continuer le Shopping</a>
+                </div>
+                <div class="col-sm-12 col-md-6 text-right">
+                    <a asp-controller="Commande" asp-action="Commande" class="btn btn-lg btn-block btn-success text-uppercase">Payer</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="panierModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Suppression</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Êtes vous sur de vouloir supprimer cet article de votre panier?
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+                <button type="button" id="btnSuppression" class="btn btn-primary">Suppression</button>
+            </div>
+        </div>
+    </div>
+</div>

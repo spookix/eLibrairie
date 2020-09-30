@@ -1,0 +1,41 @@
+﻿@model eLibrairie.Core.Data.Models.Compte
+
+@{
+    ViewData["Title"] = "EditCompte";
+}
+
+
+<h1 class="text-center m-5">Edition du compte</h1>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="EditCompte">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-5">
+                <label asp-for="Mail" class="control-label"></label>
+                <input asp-for="Mail" class="form-control" />
+            </div>
+            
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <input type="submit" value="Sauvegarder" class="btn btn-primary btn-block">
+                    </div>
+                    <div class="col-lg-4">
+
+                        <a class="btn btn-primary btn-block"  asp-controller="Home" asp-action="ModifMdp">Modifier le Mot de passe</a>
+                    </div>
+                    <div class="col-lg-4">
+                        <a  asp-controller="Home" asp-action="AffichageCompte" class="btn btn-primary btn-block">Annuler</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

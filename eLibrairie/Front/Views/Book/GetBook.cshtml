@@ -1,0 +1,50 @@
+﻿@model eLibrairie.Core.Data.Models.Book
+@{
+    ViewData["Title"] = "GetBook";
+}
+
+<div class="row justify-content-md-center">
+
+    <div class="col-4 card text-center">
+        <img class="card-img-top" src="@Model.Image" alt="@Model.Name" style="display: block;margin-left: auto;margin-right: auto;width: 80%;margin-top: 10px; height:300px">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Description</p>
+        </div>
+        <div class="card-body row justify-content-around">
+            <a><strong>Prix: </strong>@Model.Price €</a>
+            @*<button type="button" data-toggle="modal" data-target="#panierModal"><i class="fas fa-shopping-basket" style='font-size:24px'></i></button>*@
+            <a @*asp-controller="Basket" asp-action="Index" asp-route-id="@Model.Id"*@ data-toggle="modal" data-target="#panierModal">
+                <i class="fas fa-shopping-basket" style='font-size:24px'></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="panierModal" tabindex="-1" role="dialog" aria-labelledby="panierModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Panier</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Ajout de la commande dans le panier</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+                    @*<a asp-controller="Basket" asp-action="GetBasket" asp-route-id="@Model.Id" asp-route-quantite="1"  class="btn btn-secondary">
+                            Accéder au panier
+                        </a>*@
+                    <a asp-controller="Book" asp-action="GetBook" asp-route-id="@Model.Id" asp-route-panier="true" class="btn btn-primary">
+                        Ajouter au panier
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

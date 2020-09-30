@@ -1,0 +1,54 @@
+﻿<div class="container">
+    <h1>Connexion</h1>
+    <form class="needs-validation" action="/home/login" method="post" novalidate>
+        <div class="form-row">
+            <div class="col-md-4 mb-3">
+                <label for="username">Identifiant</label>
+                <input type="text" class="form-control" id="username" name="username" placeholder="Pierre" required>
+                <div class="valid-feedback">Ok !</div>
+                <div class="invalid-feedback">Valeur incorrecte</div>
+            </div>
+
+        </div>
+
+        <div class="form-row">
+            <div class="col-md-6 mb-3">
+                <label for="password">Mot de passe</label>
+                <input type="password" class="form-control" id="password" name="password" placeholder="Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required="">
+                <div class="valid-feedback">Ok !</div>
+                <div class="invalid-feedback">Valeur incorrecte</div>
+                @if (!ViewBag.BoolCpt)
+                {
+                    <label for="username">Identifiants incorrects ou compte non existant </label>
+                }
+            </div>
+        </div>
+
+
+        <div class="form-row">
+            <button class="btn btn-primary col-md-2 mb-2 mr-2" type="submit">Envoyer</button>
+            <a href="/home" class="btn btn-primary col-md-2 mb-2">Retour</a>
+        </div>
+
+    </form>
+</div>
+
+<script>
+    /*La fonction principale de ce script est d'empêcher l'envoi du formulaire si un champ a été mal rempli
+     *et d'appliquer les styles de validation aux différents éléments de formulaire*/
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            let forms = document.getElementsByClassName('needs-validation');
+            let validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>

@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "FactureDetailHistory";
+}
+
+
+<div class="container">
+
+    <div class="row">
+        <div class="text-center">
+            <h1>Detail de la commande</h1>
+        </div>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Produit</th>
+                    <th>#</th>
+                    <th class="text-center">Prix</th>
+                    <th class="text-center">Total</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var detailB in ViewBag.ListeDetailsCommandes)
+                {
+                    @foreach (var book in ViewBag.ListeBooks)
+                    {
+                        if (detailB.BookId == book.Id)
+                        {
+                            <tr data-bookid="@detailB.BookId">
+                                <td class="col-md-9"><h4><em>@book.Name</em></h4></td>
+
+                                <td class="col-md-1" style="text-align: center"> @detailB.Quantity </td>
+                                <td class="col-md-1" style="text-align: center"> @book.Price </td>
+                                <td class="col-md-1" style="text-align: center"> @detailB.PrixTotal </td>
+
+
+                            </tr>
+                        }
+                    }
+                }
+                <tr>
+                    <td>   </td>
+                    <td>   </td>
+                    <td class="text-right"><h4><strong>Total: </strong></h4></td>
+                    <td class="text-center text-danger"><h4><strong>@ViewBag.PrixTotal€</strong></h4></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="col-sm-12  col-md-6">
+            <a class="btn btn-block btn-light" asp-controller="Home" asp-action="CommandeHistory">Retour à la liste</a>
+        </div>
+
+    </div>
+</div>

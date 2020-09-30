@@ -1,0 +1,66 @@
+﻿@model IEnumerable<eLibrairie.Core.Data.Models.Commande>
+@{ var compte = Context.Session.Get<eLibrairie.Core.Data.Models.Compte>("_compte");}
+@{
+    ViewData["Title"] = "FactureHistory";
+}
+
+@*<h1>FactureHistory</h1>*@
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>
+                @compte.Firstname @compte.Name
+            </h1>
+            <p>
+                @compte.Mail
+            </p>
+            <h3>
+                Factures
+            </h3>
+            <table class="table table-condensed table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            Numéro de commande
+                        </th>
+                        <th>
+                            Date d'achat
+                        </th>
+                        <th>
+                            Prix
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var commande in Model)
+                    {
+                        @*@if (commande.CompteId == ViewBag.Compte.Id)
+                        {*@
+                            <tr>
+                                <td>
+                                    <a asp-action="CommandeDetailHistory" asp-route-Id="@commande.Id">
+                                        @commande.Id
+                                    </a>
+                                </td>
+                                <td>
+                                    <a asp-action="CommandeDetailHistory" asp-route-commande="@commande.Id">
+                                        @commande.Date.ToShortDateString()
+                                    </a>
+                                </td>
+                                <td>
+                                    <a asp-action="CommandeDetailHistory" asp-route-commande="@commande.Id">
+                                        @commande.Price€
+                                    </a>
+                                </td>
+                            </tr>
+                        @*}*@
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
