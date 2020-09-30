@@ -1,0 +1,111 @@
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\fusion\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version officielle\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\fait par Micka\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\wetransfer-9713c2\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
+C:\Users\marti\Documents\ETNA\M2\IDV-NET5\Version test\version avec AuthentificationBDD\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.deps.json
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.json
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.runtimeconfig.dev.json
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\bin\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csprojAssemblyReference.cache
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.csproj.CoreCompileInputs.cache
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfoInputs.cache
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.AssemblyInfo.cs
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.dll
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.pdb
+C:\temp\asp-net-projects\final\eLibrairie\eLibrairie.Core.Data\obj\Debug\netcoreapp3.1\eLibrairie.Core.Data.genruntimeconfig.cache
